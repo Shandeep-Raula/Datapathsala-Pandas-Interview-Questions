@@ -1,1 +1,1 @@
-# Datapathsala-Pandas-Interview-Questions
+# Datapathsala Pandas Interview Questions
